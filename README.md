@@ -2,4 +2,4 @@
 
 🚧 Code Coming Soon! 🚧
 
-![Alt Text](https://raw.github.com/Choi58/MTCM/blob/main/images/Framework.png)
+![Framework](https://raw.githubusercontent.com/Choi58/MTCM/main/images/Framework.png)
