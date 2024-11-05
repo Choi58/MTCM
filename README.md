@@ -15,6 +15,6 @@ cd scripts
 sh refiner_test.sh
 ```
 ## Models
-☁️ [Google Drive](https://drive.google.com/file/d/1YLnRUsANuPVfLo1jrgK05EGUJglrwA9H/view?usp=drive_link)
+☁️ [Google Drive](https://drive.google.com/file/d/1M4CZY3xKSg6qbwiU8BECcUHmCWeLtUHr/view?usp=sharing)
 ## Acknowledgement
 This project is based on [DsHmp](https://github.com/heshuting555/DsHmp) and [DVIS](https://github.com/zhang-tao-whu/DVIS). Many thanks to the authors for their great works!
