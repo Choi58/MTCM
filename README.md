@@ -12,7 +12,12 @@ python3 -m spacy download en_core_web_sm
 Obtain the output masks of Val set for [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/15094) online evaluation:
 ```
 cd scripts
-sh refiner_test.sh
+sh train_mevis.sh
+```
+## Inference
+```
+cd scripts
+sh test_mevis.sh
 ```
 ## Models
 ☁️ [Google Drive](https://drive.google.com/file/d/1M4CZY3xKSg6qbwiU8BECcUHmCWeLtUHr/view?usp=sharing)
