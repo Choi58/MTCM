@@ -7,9 +7,9 @@
 
 This repository contains code for **ICASSP2025** paper:
 
-### [Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation](https://arxiv.org/abs/2501.04939)  
-Sun-Hyuk Choi, Hayoung Jo, Seong-Whan Lee  
-ICASSP 2025
+> ### [Multi-Context Temporal Consistent Modeling for Referring Video Object Segmentation](https://arxiv.org/abs/2501.04939)  
+> <sub>Sun-Hyuk Choi, Hayoung Jo, Seong-Whan Lee  
+> ICASSP 2025</sub>
 
 ## Installation:
 Please see [INSTALL.md](https://github.com/henghuiding/MeViS/blob/main/INSTALL.md). Then
